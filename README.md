@@ -1,4 +1,4 @@
-# SMGT490 Capston project example
+# SMGT490 Capstone project example
 This project studies how ...
 
 ## Data
